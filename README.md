@@ -1,1 +1,2 @@
-  ![Texto alternativo]([https://upload.wikimedia.org/wikipedia/pt/1/16/ZAG_Miraculous_Logo.png])
+# Miraculous: As Aventiras de Ladybug e Cat Noir 🐞
+A página Miraculous foi criado por mim em homenagem a [Emanuelle de Oliveira]([https://www.instagram.com/d3_oliveiraxz/]).
